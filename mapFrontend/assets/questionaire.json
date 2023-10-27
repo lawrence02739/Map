@@ -1,0 +1,663 @@
+{
+    "summary": [
+        {
+            "question_no": "6",
+            "source_key": "Q1",
+            "sentence_annotated": "I would however like to officially have completed our review on our new perspective project <font color=\"#f3d521\">coordinator</font> and have her started in the training within the next 30 days.",
+            "sentence": "I would however like to officially have completed our review on our new perspective project coordinator and have her started in the training within the next 30 days.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 1,
+                    "mapped_words": [
+                        "coordinator"
+                    ]
+                },
+                {
+                    "category": "Planning",
+                    "count": 0,
+                    "mapped_words": []
+                }
+            ]
+        },
+        {
+            "question_no": "6",
+            "source_key": "Q1",
+            "sentence_annotated": "I fell I am straight forward, direct and <font color=\"#f3d521\">determined.</font>",
+            "sentence": "I fell I am straight forward, direct and determined.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 1,
+                    "mapped_words": [
+                        "determined."
+                    ]
+                },
+                {
+                    "category": "Planning",
+                    "count": 0,
+                    "mapped_words": []
+                }
+            ]
+        },
+        {
+            "question_no": "6",
+            "source_key": "Q1",
+            "sentence_annotated": "I do not shy away from a challenge, in fact the larger the challenge the more <font color=\"#f3d521\">determined</font> I am to figure out the best course of action and move forward.",
+            "sentence": "I do not shy away from a challenge, in fact the larger the challenge the more determined I am to figure out the best course of action and move forward.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 1,
+                    "mapped_words": [
+                        "determined"
+                    ]
+                },
+                {
+                    "category": "Planning",
+                    "count": 0,
+                    "mapped_words": []
+                }
+            ]
+        },
+        {
+            "question_no": "6",
+            "source_key": "Q1",
+            "sentence_annotated": "I am not afraid to do the work myself or alongside those who need <font color=\"#f3d521\">assistance.</font>",
+            "sentence": "I am not afraid to do the work myself or alongside those who need assistance.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 1,
+                    "mapped_words": [
+                        "assistance."
+                    ]
+                },
+                {
+                    "category": "Planning",
+                    "count": 0,
+                    "mapped_words": []
+                }
+            ]
+        },
+        {
+            "question_no": "6",
+            "source_key": "Q1",
+            "sentence_annotated": "I do not have a set financial goal at this time but I would like a title change that reflects what my position actually is as well as reflects the <font color=\"#f3d521\">responsibilities</font> I carry.",
+            "sentence": "I do not have a set financial goal at this time but I would like a title change that reflects what my position actually is as well as reflects the responsibilities I carry.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 1,
+                    "mapped_words": [
+                        "responsibilities"
+                    ]
+                },
+                {
+                    "category": "Planning",
+                    "count": 0,
+                    "mapped_words": []
+                }
+            ]
+        },
+        {
+            "question_no": "6",
+            "source_key": "Q1",
+            "sentence_annotated": "I often need to remind myself that I most likely do not have all of the <font color=\"#cc2c2c\">information,</font> so even though the directions that I receive may not make sense at the time but will in due time.",
+            "sentence": "I often need to remind myself that I most likely do not have all of the information, so even though the directions that I receive may not make sense at the time but will in due time.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "information,"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "12",
+            "source_key": "Q1",
+            "sentence_annotated": "I would have to stay <font color=\"#cc2c2c\">organizational</font> structure.",
+            "sentence": "I would have to stay organizational structure.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "organizational"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "12",
+            "source_key": "Q1",
+            "sentence_annotated": "The <font color=\"#cc2c2c\">organizational</font> structure of most of our other branches is each person works on one specific area within the company (for example: payroll, human resources, accounts receivable, accounts payable, etc.).",
+            "sentence": "The organizational structure of most of our other branches is each person works on one specific area within the company (for example: payroll, human resources, accounts receivable, accounts payable, etc.).",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "organizational"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "13",
+            "source_key": "Q1",
+            "sentence_annotated": "I would like to learn different techniques in dealing with co-workers and <font color=\"#cc2c2c\">staff.</font>",
+            "sentence": "I would like to learn different techniques in dealing with co-workers and staff.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 1,
+                    "mapped_words": [
+                        "techniques"
+                    ]
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "staff."
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "13",
+            "source_key": "Q1",
+            "sentence_annotated": "The best way to work with co-workers and <font color=\"#cc2c2c\">staff</font> to reach a common goal.",
+            "sentence": "The best way to work with co-workers and staff to reach a common goal.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "staff"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "13",
+            "source_key": "Q1",
+            "sentence_annotated": "When I no longer feel I need to second guess emails or statements when dealing with co-workers and <font color=\"#cc2c2c\">staff.</font>",
+            "sentence": "When I no longer feel I need to second guess emails or statements when dealing with co-workers and staff.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "staff."
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "9",
+            "source_key": "Q11",
+            "sentence_annotated": "Assisting with training of dispatcher/project <font color=\"#f3d521\">coordinator.</font>",
+            "sentence": "Assisting with training of dispatcher/project coordinator.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 1,
+                    "mapped_words": [
+                        "coordinator."
+                    ]
+                },
+                {
+                    "category": "Planning",
+                    "count": 0,
+                    "mapped_words": []
+                }
+            ]
+        },
+        {
+            "question_no": "9",
+            "source_key": "Q11",
+            "sentence_annotated": "Office <font color=\"#cc2c2c\">staff</font> organization.",
+            "sentence": "Office staff organization.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 2,
+                    "mapped_words": [
+                        "organization.",
+                        "staff"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "9",
+            "source_key": "Q11",
+            "sentence_annotated": "Learning and cross training herself as well as other office <font color=\"#cc2c2c\">staff.</font>",
+            "sentence": "Learning and cross training herself as well as other office staff.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "staff."
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "9",
+            "source_key": "Q11",
+            "sentence_annotated": "Time <font color=\"#cc2c2c\">management</font> of herself and other office staff.",
+            "sentence": "Time management of herself and other office staff.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 2,
+                    "mapped_words": [
+                        "staff.",
+                        "management"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "9",
+            "source_key": "Q11",
+            "sentence_annotated": "Be introduced to others as a person of <font color=\"#cc2c2c\">management,</font> and be able to guide and help subordinates in a patient and timely manner.",
+            "sentence": "Be introduced to others as a person of management, and be able to guide and help subordinates in a patient and timely manner.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "management,"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "13",
+            "source_key": "Q11",
+            "sentence_annotated": "Will gain patience for training and see that a measurable difference in <font color=\"#cc2c2c\">organizational</font> skills can create more sales and an increased profit margin for our division.",
+            "sentence": "Will gain patience for training and see that a measurable difference in organizational skills can create more sales and an increased profit margin for our division.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "organizational"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "13",
+            "source_key": "Q11",
+            "sentence_annotated": "She is very good at sales and <font color=\"#cc2c2c\">staff</font> reporting, and will have to show proof of accuracy and financial benefit to the Company with the processes in place.",
+            "sentence": "She is very good at sales and staff reporting, and will have to show proof of accuracy and financial benefit to the Company with the processes in place.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "staff"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "13",
+            "source_key": "Q11",
+            "sentence_annotated": "Expectations will be noticeable immediately, with authority to make slight changes and delegate duties to other office <font color=\"#cc2c2c\">staff.</font>",
+            "sentence": "Expectations will be noticeable immediately, with authority to make slight changes and delegate duties to other office staff.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "staff."
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "13",
+            "source_key": "Q11",
+            "sentence_annotated": "Must have the back up support from upper <font color=\"#cc2c2c\">management</font> to succeed and to train others.",
+            "sentence": "Must have the back up support from upper management to succeed and to train others.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "management"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "4",
+            "source_key": "Q10",
+            "sentence_annotated": "I would recommend that Mary continue to understand the  challenges that others are facing that are impacting the <font color=\"#cc2c2c\">information</font> that is  given to her.",
+            "sentence": "I would recommend that Mary continue to understand the  challenges that others are facing that are impacting the information that is  given to her.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "information"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "6",
+            "source_key": "Q10",
+            "sentence_annotated": "Unable to give you any feedback to this question, Mary is in a different location  than I am Mary's main organizing challenge is associated with time and <font color=\"#cc2c2c\">organization</font>  structure or lack of from other branches.",
+            "sentence": "Unable to give you any feedback to this question, Mary is in a different location  than I am Mary's main organizing challenge is associated with time and organization  structure or lack of from other branches.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "organization"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "6",
+            "source_key": "Q10",
+            "sentence_annotated": "Again, with the recent acquisition of  another company that has now become another branch, the <font color=\"#cc2c2c\">organization</font> structure of  both branches are different.",
+            "sentence": "Again, with the recent acquisition of  another company that has now become another branch, the organization structure of  both branches are different.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "organization"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "6",
+            "source_key": "Q10",
+            "sentence_annotated": "I don't see any <font color=\"#cc2c2c\">organization</font> skill challenges.",
+            "sentence": "I don't see any organization skill challenges.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "organization"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "6",
+            "source_key": "Q10",
+            "sentence_annotated": "N/A Unable to give you any feedback to this question, Mary is in a different location  than I am Mary's main <font color=\"#cc2c2c\">staffing</font> challenge will be training and development of her team.",
+            "sentence": "N/A Unable to give you any feedback to this question, Mary is in a different location  than I am Mary's main staffing challenge will be training and development of her team.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "staffing"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "6",
+            "source_key": "Q10",
+            "sentence_annotated": "Hard for me to assess but don\u2019t think she\u2019s had the opportunity to select <font color=\"#cc2c2c\">staff</font>  and works with what she has been given.",
+            "sentence": "Hard for me to assess but don\u2019t think she\u2019s had the opportunity to select staff  and works with what she has been given.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "staff"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "6",
+            "source_key": "Q10",
+            "sentence_annotated": "Mary is very well organized and efficient in her time <font color=\"#cc2c2c\">management.</font>",
+            "sentence": "Mary is very well organized and efficient in her time management.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "management."
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "8",
+            "source_key": "Q10",
+            "sentence_annotated": "In order for Mary's <font color=\"#cc2c2c\">information</font> to remain accurate she  relies on the other branch to meet deadlines which many times does not happen.",
+            "sentence": "In order for Mary's information to remain accurate she  relies on the other branch to meet deadlines which many times does not happen.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "information"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "9",
+            "source_key": "Q10",
+            "sentence_annotated": "Being open to opinions and new <font color=\"#f3d521\">techniques.</font>",
+            "sentence": "Being open to opinions and new techniques.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 1,
+                    "mapped_words": [
+                        "techniques."
+                    ]
+                },
+                {
+                    "category": "Planning",
+                    "count": 0,
+                    "mapped_words": []
+                }
+            ]
+        },
+        {
+            "question_no": "9",
+            "source_key": "Q10",
+            "sentence_annotated": "After reviewing this <font color=\"#cc2c2c\">information,</font>  Mary can then evaluate branch strength/ weaknesses and establish a plan and her  recommendations on how to reach the goals established in the divisional business  plan.",
+            "sentence": "After reviewing this information,  Mary can then evaluate branch strength/ weaknesses and establish a plan and her  recommendations on how to reach the goals established in the divisional business  plan.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 1,
+                    "mapped_words": [
+                        "information,"
+                    ]
+                }
+            ]
+        },
+        {
+            "question_no": "9",
+            "source_key": "Q10",
+            "sentence_annotated": "Engage her <font color=\"#cc2c2c\">management</font> in discussions on a <font color=\"#cc2c2c\">management</font> career path that would  better utilize her skills while benefiting the organization and fulfilling  personal goals.",
+            "sentence": "Engage her management in discussions on a management career path that would  better utilize her skills while benefiting the organization and fulfilling  personal goals.",
+            "mapped_category": [
+                {
+                    "category": "Communication",
+                    "count": 0,
+                    "mapped_words": []
+                },
+                {
+                    "category": "Planning",
+                    "count": 3,
+                    "mapped_words": [
+                        "organization",
+                        "management",
+                        "management"
+                    ]
+                }
+            ]
+        }
+    ],
+    "overall_summary_by_source": [
+        {
+            "source": "Q1",
+            "count": 12
+        },
+        {
+            "source": "Q11",
+            "count": 11
+        },
+        {
+            "source": "Q10",
+            "count": 13
+        }
+    ],
+    "overal_summary_by_category": [
+        {
+            "category": "Communication",
+            "color_code": "#f3d521",
+            "coding_Abbreviation": "Cm",
+            "count": 8
+        },
+        {
+            "category": "Planning",
+            "color_code": "#cc2c2c",
+            "coding_Abbreviation": "P",
+            "count": 28
+        }
+    ],
+    "workshop_details": {
+        "workshop_Date": "2020-03-24T18:30:00",
+        "workshop_Leader": "sivabalan",
+        "workshop_Participant": "asdf asdf"
+    }
+}
